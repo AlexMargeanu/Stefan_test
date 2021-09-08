@@ -1,0 +1,14 @@
+#section {
+    width: 100vw;
+    height: 100vh;
+}
+
+#test {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 700px;
+    height: 200px;
+    background-color: aquamarine;
+}
